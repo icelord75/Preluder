@@ -24,3 +24,5 @@ Secondary VFD dashboard display and Dot matrix LED display replacement for mecha
 **Prelude ExtraGuages and Odometer** is available under GPL License.
 
 [![PreludeExtraGuages](https://img.youtube.com/vi/6HGEkpkcAlo/0.jpg)](https://www.youtube.com/watch?v=6HGEkpkcAlo)
+
+[![PreludeOdomeer](https://img.youtube.com/vi/CyNxM1pS85o/0.jpg)](https://www.youtube.com/watch?v=CyNxM1pS85o)
