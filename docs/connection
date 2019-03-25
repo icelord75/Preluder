@@ -1,0 +1,68 @@
+24 6 6
+
+POWER
+1     Vin		A1
+2     GND		A2
+
+DIGINAL SENSORS
+3     SCL MLX		B1
+4     SDA		B2
+5     VCC		B3
+6     GND		B4
+
+7     SCL ADS		C1
+8     SDA		C2
+9     VCC		C3
+10    GND		C4
+
+11    DO MAX		D1
+12    CS		D2
+13    CL		D3
+14    VCC		D4
+15    GND		D5
+
+16    1WIRE		E1
+17    VCC		E2
+18    GND		E3
+
+OLED
+19    SCL		F1
+20    SDA		F2
+21    VCC		F3
+22    GND		F4
+
+VFD
+23    LH		G1
+24    SCK		G2
+25    SI		G3
+26    VCC		G4
+27    GND		G5
+28    DIMER OUT (+12)	G6
+
+LED MATRIX
+29    VCC		H1
+30    GND		H2
+31    DAT		H3
+32    REG		H4
+33    CLK		H5
+34    En		H6
+35    RST		H7
+
+ANALOG SENSORS
+36    Oil Pressure (R)	I1
+37    Oil Temp (R)	I2
+38    Dimmer in (+12)	I3
+39    VSS		I4
+40    RPM		I5
+41    AGND		I6
+
+OUTPUT
+42    DASH NEEDLE	J1
+43    DASH INDIGLO	J2
+44    GND		J3
+
+BUTTONS
+45    SELECT DASH	K1
+46    SELECT ODD	K2
+47    CONFIG		K3
+48    GND		K4
