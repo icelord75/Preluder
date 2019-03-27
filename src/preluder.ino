@@ -157,7 +157,6 @@ unsigned long timeOLED=0;
 #define ALARM_BATTERY_HIGH 15.0  // Alternator output it too high
 #define ALARM_BETTERY_DELAY 2000 // 2.0sec delay for engine start
 
-
 #define PPR 15 // VSS pulses per axle revolution
 
 #define TRIP_A              0
