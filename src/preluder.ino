@@ -22,6 +22,7 @@
 #include <Adafruit_ADS1015.h>   // platformio lib install "Adafruit ADS1X15"
 #include <Adafruit_MLX90614.h>  // platformio lib install "Adafruit MLX90614 Library"
 #include <OneWire.h>            // platformio lib install "OneWire"
+
 #include "img.h"                // Mode logos
 #ifdef OPTIBOOT
 #include <avr/wdt.h>
@@ -309,13 +310,13 @@ void setBrightness(uint8_t bright)
 
 void setup() {
 #ifdef DEBUG
-    Serial.begin(115200);
+        Serial.begin(115200);
 #endif
-    eeprom.begin();
-    myDisplay.begin();
-    setBrightness(0);
+        eeprom.begin();
+        myDisplay.begin();
+        setBrightness(0);
 #ifdef DEBUG
-    Serial.print("\n\nAb0VE-TECH\nHonda Prelude Gauges add Oddometer\n\n");
+        Serial.print("\n\nAb0VE-TECH\nHonda Prelude Gauges add Oddometer\n\n");
 #endif
 }
 
